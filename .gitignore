@@ -1,0 +1,8 @@
+# Jetbrains IDE configuration
+.idea/*
+
+# Configuration files
+config.json
+
+# Logs
+*.log
