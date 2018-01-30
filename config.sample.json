@@ -1,0 +1,18 @@
+{
+  "mysql_host": "IP/Domain name of MySQL server",
+  "mysql_user": "MySQL user",
+  "mysql_pass": "MySQL password",
+  "mysql_db": "Database name",
+
+  "text_local_user": "Email address used for Textlocal",
+  "text_local_hash": "Textlocal hash",
+  "text_local_sender": "6 letter ID of sender",
+
+  "mailgun_api_url": "Mailgun API endpoint",
+  "mailgun_user": "username",
+  "mailgun_key": "key",
+  "mailgun_sender": "Sender Name <sender email address>",
+
+  "subject": "Subject for SMS",
+  "text": "Text for SMS"
+}
